@@ -1,0 +1,26 @@
+{
+  "name": "datatables-filters",
+  "description": "Filters for datatables.net",
+  "version": "0.0.1",
+  "main": "index.js",
+  "contributors": [
+    {
+      "name": "",
+      "email": "",
+      "web": ""
+    }
+  ],
+  "maintainers": [
+    {
+      "name": "Samuel Casas",
+      "email": "samuel@reyno.tech",
+      "web": ""
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/reynotech/datatables-filters.git"
+    }
+  ]
+}
